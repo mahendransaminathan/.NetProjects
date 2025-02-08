@@ -7,3 +7,4 @@ Install the following:-
 3. Microsoft.EntityFramework.SqlServer
 4. Microsoft.EntityFramework.Tools
 5. Microsoft.EntityFramework.Core.Design
+6. Microsoft.VisualStudio.Web.CodeGeneration.Design
